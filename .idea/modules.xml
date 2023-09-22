@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Projeto.iml" filepath="$PROJECT_DIR$/.idea/Projeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../guppe/.idea/guppe.iml" filepath="$PROJECT_DIR$/../guppe/.idea/guppe.iml" />
+    </modules>
+  </component>
+</project>
