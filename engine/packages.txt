@@ -1,5 +1,0 @@
-paramiko==
-pysftp==
-ftplib==
-csv==
-pandas==
