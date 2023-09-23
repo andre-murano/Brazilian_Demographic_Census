@@ -18,7 +18,7 @@ file_list = ftp.nlst()  # Obtém a lista de arquivos no diretório
 
 ### Variables ####
 
-dir = 'D:\\Projetos\\Projeto\\'
+dir = 'D:\\Projetos\\Projetos\\Brazilian_Census\\'
 files_dir = os.listdir(dir)
 
 # file_to_download = 'ftp://ftp.datasus.gov.br/dissemin/publicos/IBGE/POP/'
