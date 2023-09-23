@@ -1,9 +1,7 @@
-import pandas as pd
+
 from sqlalchemy import create_engine
 import os
-import wget
 import os
-import zipfile
 from ftplib import FTP
 import mysql.connector
 
